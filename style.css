@@ -1,0 +1,133 @@
+body{
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.perfil {
+    text-align: center;
+    font-weight: bold;
+}
+
+.conta {
+    background-color:#FF2E6E ;
+    text-align: center;
+}
+
+#fotoPerfil {
+    height: 77px;
+    width: auto;
+    border-radius: 50%;
+    padding-top: 5px;
+    margin: 0px;
+}
+
+.nome{
+    color: #FFFFFF;
+    font-weight: bold;
+    margin: 0px;
+    font-size: 18px;
+}
+
+.email{
+    font-size: 14px;
+    color: rgb(182, 178, 178);
+}
+
+.informacoes{
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.escola{
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0px;
+    padding-bottom: 10px ;
+}
+
+.espacamento{
+    background-color: rgb(238, 237, 237);
+    width: 100%;
+    height: 25px;
+}
+
+.funcionalidades{
+    background-color: rgb(238, 237, 237);
+}
+
+.materiais{
+    display: flex;
+    margin: 0px;
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 100%;
+    
+}
+
+.opcoes{
+    padding-left: 10px;
+}
+
+.icone1{
+    height: 60px;
+    width: auto;
+}
+
+.icone2{
+    height: 50px;
+    width: auto;
+    padding-left: 10px;
+}
+
+.icone3{
+    height: 50px;
+    width: auto;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+
+
+.materiais{
+    display: flex;
+    margin-bottom: 2px;
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 100%; 
+}
+
+.geekieTeste{
+    display: flex;
+    margin-bottom: 2px;
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 100%;
+    
+}
+
+.meAjuda{
+    display: flex;
+    margin-bottom: 2px;
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 100%;
+    
+}
+
+.editarPerfil{
+    display: flex;
+    margin-bottom: 2px;
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 100%;
+    
+}
+
+
+
+
+
+
+
+
+
