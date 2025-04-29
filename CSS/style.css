@@ -9,7 +9,7 @@ body{
 }
 
 .conta {
-    background-color:#FF2E6E ;
+    background: linear-gradient(to bottom, #FF624A, #FF2E6E);
     text-align: center;
 }
 
@@ -51,21 +51,16 @@ body{
     height: 25px;
 }
 
-.funcionalidades{
-    background-color: rgb(238, 237, 237);
+#funcionalidades{
+    background-color: #F5F7FA;
+    height: 500px;
 }
 
-.materiais{
-    display: flex;
-    margin: 0px;
-    background-color: #FFFFFF;
-    height: 60px;
-    width: 100%;
-    
-}
+
 
 .opcoes{
     padding-left: 10px;
+    color: #99A0AC;
 }
 
 .icone1{
@@ -73,57 +68,29 @@ body{
     width: auto;
 }
 
-.icone2{
-    height: 50px;
-    width: auto;
-    padding-left: 10px;
-}
 
-.icone3{
-    height: 50px;
-    width: auto;
-    padding-left: 10px;
-    padding-top: 5px;
-}
-
-
-
-.materiais{
+.funcionalidade{
     display: flex;
     margin-bottom: 2px;
     background-color: #FFFFFF;
-    height: 60px;
+    height: 50px;
     width: 100%; 
 }
 
-.geekieTeste{
-    display: flex;
-    margin-bottom: 2px;
-    background-color: #FFFFFF;
-    height: 60px;
-    width: 100%;
-    
+.versao{
+    text-align: center;
+    font-size: 10px;
+    color: #99a0ac;
+    margin: 5px;
 }
 
-.meAjuda{
-    display: flex;
-    margin-bottom: 2px;
-    background-color: #FFFFFF;
-    height: 60px;
+.footer {
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+    text-align: center;
     width: 100%;
-    
 }
-
-.editarPerfil{
-    display: flex;
-    margin-bottom: 2px;
-    background-color: #FFFFFF;
-    height: 60px;
-    width: 100%;
-    
-}
-
-
 
 
 
