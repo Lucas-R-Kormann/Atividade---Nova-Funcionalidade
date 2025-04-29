@@ -86,12 +86,23 @@ body{
 
 .footer {
     bottom: 0;
-    position: fixed;
-    width: 90%;
     text-align: center;
     width: 100%;
 }
 
+
+#desempenho{
+    background-color: #6146F1;
+    height: 52px;
+}
+
+.desempenho{
+    margin: 0px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 15px;
+}
 
 
 
